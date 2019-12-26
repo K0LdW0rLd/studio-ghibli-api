@@ -1,0 +1,25 @@
+{
+  "name": "studio-ghibli-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K0LdW0rLd/studio-ghibli-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K0LdW0rLd/studio-ghibli-api/issues"
+  },
+  "homepage": "https://github.com/K0LdW0rLd/studio-ghibli-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.8.3",
+    "node-fetch": "^2.6.0"
+  }
+}
